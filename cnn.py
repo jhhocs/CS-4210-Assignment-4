@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Joshua Ho
+# FILENAME: cnn.py
+# SPECIFICATION: Train a CNN to classify images of handwritten digits
 # FOR: CS 4210 - Assignment #4
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 1 hour
 #-------------------------------------------------------------------------
 
 # Importing Python libraries
